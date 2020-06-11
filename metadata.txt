@@ -2,7 +2,7 @@
 [general]
 name:XyTools
 qgisMinimumVersion:1.8
-qgisMaximumVersion:2.99
+; qgisMaximumVersion:2.99
 description:Tools for managing tabular data with x y columns
 about:Tools for managing tabular data with x y columns. It can open spreadsheet files (Libre/OpenOffice, Excel) as point layers and save attribute tables as Excel file
 version:0.3.6
